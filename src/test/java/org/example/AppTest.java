@@ -23,5 +23,7 @@ public class AppTest {
         app.search("Apple iPhone SE (2nd Generation), US Version, 64GB, White - Unlocked (Renewed)");
         app.filter();
         app.product();
+
+        System.out.println("Hello World !");
     }
 }
