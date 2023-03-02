@@ -63,5 +63,7 @@ public class App {
         Assert.assertEquals(productNameActual,productNameExpected);
         productName.click();
 
+        System.out.println("Hello World !");
     }
+
 }
